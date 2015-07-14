@@ -11,7 +11,7 @@ It's easy to get started building with **vardb**.
 Just use the `var` keyword:
 
 ### Lists
-```
+```javascript
 // synchronous
 var myStore = [];
 myStore.push('a string');
@@ -24,7 +24,7 @@ setTimeout(function () {
 ```
 
 ### Hashes / object store
-```
+```javascript
 // synchronous
 var myStore = {};
 myStore.something = 'a string';
