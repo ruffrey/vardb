@@ -2,7 +2,7 @@
 
 An embeddable in-memory datastore for javascript applications - now available for the browser and Node.js. It is a great alternative to Redis or other in-memory stores.
 
-**vardb** has a unique synchronous or asyncronous IO implementation for maximum performance and usability in javascript environments.
+**vardb** has a unique synchronous or asynchronous IO implementation for maximum performance and usability in javascript environments.
 
 # Getting started
 
