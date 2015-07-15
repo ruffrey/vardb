@@ -36,6 +36,10 @@ setTimeout(function () {
 });
 ```
 
+# Other notes
+
+- as you can see this is not a datastore
+
 # License
 
 [WTFPL](http://www.wtfpl.net/)
